@@ -1,4 +1,4 @@
-# Multi_Thread_With_RasberryPi
+# Multi_Process_With_RasberryPi
 ![슬라이드3](https://user-images.githubusercontent.com/69897338/148680956-21d80996-263e-426f-8f25-c46a06cca3aa.jpeg)
 ![슬라이드4](https://user-images.githubusercontent.com/69897338/148680959-04dd27be-5c3a-4b64-afff-c49466fda874.jpeg)
 ![슬라이드5](https://user-images.githubusercontent.com/69897338/148680960-6f4a6f18-39c4-46ef-9110-69923d21bbcd.jpeg)
